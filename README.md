@@ -50,8 +50,8 @@ Yelp Open Dataset
 ### Dataset Summary
 
 - Total Businesses: ~150,000
-- Open Restaurant Businesses: ~52,000
-- Review Sample Used: ~500,000 reviews
+- Open Restaurant Businesses: ~35,000
+- Review Sample Used: ~400,000 reviews
 - Multiple cities across the United States and Canada
 - Rating Scale: 1–5 stars
 
